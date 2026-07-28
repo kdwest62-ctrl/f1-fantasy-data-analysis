@@ -8,7 +8,6 @@ The project is divided into four Jupyter notebooks:
 #### probability: calculates probability in team construction.
 #### head-to-head: this notebook will show who the better driver is by comparing total points, form, and consistency between a selection of drivers.
 
-# Getting Started
 ## Requirements
 Google account, familiarity with Google Colab
 ## Libraries
