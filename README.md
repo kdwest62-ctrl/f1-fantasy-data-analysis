@@ -2,8 +2,25 @@
 A data analysis project created to help F1 Fantasy players build the best team
 
 # Overview
-The project is divided into four Jupyter notebooks: circuit-type, correlation, forecast, and head-to-head.
-#### circuit-type: shows fantasy points distribution based on circuit type (low-, medium-, and high-speed)
+The project is divided into four Jupyter notebooks:
+#### circuit-type: shows fantasy points distribution based on circuit type (low-, medium-, and high-speed).
 #### correlation: visualizes fantasy points progression using a scatter plot.
-#### forecast: (1) calculates total team value using updates, (2) assesses how many races before a driver or constructor reaches Tier A or B, and (3) figure out how likely a driver is to score above, below, or equal his average.
+#### probability: calculates probability in team construction.
 #### head-to-head: this notebook will show who the better driver is by comparing total points, form, and consistency between two drivers.
+
+# Getting Started
+## Requirements
+Google account, familiarity with Google Colab
+## Libraries
+- Built-in: itertools
+- External: NumPy, Matplotlib
+
+# Reminders
+1. Run all dictionaries first before running a cell
+2. Input the first three letters of any driver or constructor. The names must be the same ones in Budget Builder (https://f1fantasytools.com/budget-builder).
+
+# License
+This project is licensed under the MIT License - see the LICENSE file for details
+
+# Contact
+If you've got any questions, comments, or suggestions about this project, feel free to send me an email: kdwest62@gmail.com
