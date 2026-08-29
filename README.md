@@ -6,7 +6,7 @@ The project is divided into four Jupyter notebooks:
 #### circuit-type: shows fantasy points distribution based on circuit type (low-, medium-, and high-speed).
 #### correlation: visualizes fantasy points progression using a scatter plot.
 #### probability: calculates probability in team construction.
-#### head-to-head: this notebook will show who the better driver is by comparing total points, form, and consistency between a selection of drivers.
+#### head-to-head: shows who the better driver is by comparing total points, form, and consistency from a selection of drivers.
 
 ## Requirements
 Google account, familiarity with Google Colab
