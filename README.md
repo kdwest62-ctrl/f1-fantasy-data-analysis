@@ -13,7 +13,8 @@ probability: calculates probability in team construction.
 head-to-head: shows who the better driver is by comparing total points, form, and consistency from a selection of drivers.
 
 ## Requirements
-Google account, familiarity with Google Colab
+Google account
+
 ## Libraries
 - Built-in: itertools
 - External: NumPy, Matplotlib
