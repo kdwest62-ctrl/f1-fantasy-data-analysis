@@ -2,7 +2,7 @@
 A data analysis project created to help F1 Fantasy players choose the best drivers and build the best team.
 
 ## Overview
-The project is divided into four notebooks:
+This project contains four notebooks:
 
 1. circuit-type: calculate Fantasy points distribution based on circuit-type (low-, medium-, and high-speed).
 
