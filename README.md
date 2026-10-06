@@ -8,9 +8,11 @@ This project contains four notebooks:
 
 2. correlation: visualize the relationship between drivers' and constructors' Fantasy points progression using a scatter plot.
 
-3. forecast: to build in the present, you must also consider what will happen in the future.
+3. forecast: helps you select drivers or constructors based on future scenarios.
 
 4. head-to-head: this is what F1 is all about - finding the best driver. To do so, you'd have to compare drivers' total Fantasy points, average points per race, form, and scoring consistency.
+
+5. probability: build your team based on how much a driver is likely to score.
 
 ## Environment
 Google Colab
