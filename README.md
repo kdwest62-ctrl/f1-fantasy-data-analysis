@@ -27,7 +27,7 @@ External: NumPy, Matplotlib
 
 ## Reminders
 1. When asked for a driver or constructor name, simply input the first three letters of their name.
-2. When asked for input on points progression, just type in the points scored by the driver or constructor in each race. Use a space as separator between the points.
+2. When asked for input on points progression, just type in the points scored by the driver or constructor in each race. Use a space as separator between the points. (e.g. 12 13 4 2 -2)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
