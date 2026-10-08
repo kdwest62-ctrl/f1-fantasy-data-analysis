@@ -1,5 +1,5 @@
 # F1-Fantasy-Data-Analysis
-A data analysis project created to help F1 Fantasy players choose the best drivers and build the best team.
+A Python data analysis project created to help F1 Fantasy players choose the best performing drivers and constructors.
 
 ## Overview
 This project contains four notebooks:
