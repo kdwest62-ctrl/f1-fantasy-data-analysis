@@ -4,7 +4,7 @@ A Python data analysis project created to help F1 Fantasy players choose the bes
 ## Overview
 This project contains four notebooks:
 
-1. circuit-type: calculate Fantasy points distribution based on circuit-type (low-, medium-, and high-speed).
+1. circuit: calculate Fantasy points distribution based on circuit-type (low-, medium-, and high-speed).
 
 2. correlation: visualize the relationship between drivers' and constructors' Fantasy points progression using a scatter plot.
 
